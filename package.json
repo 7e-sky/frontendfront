@@ -20,6 +20,7 @@
         "firebase": "6.1.0",
         "formsy-react": "1.1.5",
         "google-map-react": "1.1.4",
+        "grpc": "^1.24.11",
         "jsonwebtoken": "8.5.1",
         "jss": "10.0.0-alpha.16",
         "jss-extend": "6.2.0",
